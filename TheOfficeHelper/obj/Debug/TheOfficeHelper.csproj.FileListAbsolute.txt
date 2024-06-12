@@ -1,0 +1,17 @@
+C:\Users\ADMIN\OneDrive\Desktop\important\c#\TheOfficeHelper\bin\Debug\TheOfficeHelper.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\important\c#\TheOfficeHelper\bin\Debug\TheOfficeHelper.exe
+C:\Users\ADMIN\OneDrive\Desktop\important\c#\TheOfficeHelper\bin\Debug\TheOfficeHelper.pdb
+C:\Users\ADMIN\OneDrive\Desktop\important\c#\TheOfficeHelper\obj\Debug\TheOfficeHelper.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\important\c#\TheOfficeHelper\obj\Debug\TheOfficeHelper.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Desktop\important\c#\TheOfficeHelper\obj\Debug\TheOfficeHelper.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Desktop\important\c#\TheOfficeHelper\obj\Debug\TheOfficeHelper.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\important\c#\TheOfficeHelper\obj\Debug\TheOfficeHelper.exe
+C:\Users\ADMIN\OneDrive\Desktop\important\c#\TheOfficeHelper\obj\Debug\TheOfficeHelper.pdb
+C:\Users\ADMIN\OneDrive\Desktop\important\c#\TheOfficeHelper\obj\Debug\TheOfficeHelper.Login.resources
+C:\Users\ADMIN\OneDrive\Desktop\important\c#\TheOfficeHelper\obj\Debug\TheOfficeHelper.MainFrom.resources
+C:\Users\ADMIN\OneDrive\Desktop\important\c#\TheOfficeHelper\obj\Debug\TheOfficeHelper.ChooseFrom.resources
+C:\Users\ADMIN\OneDrive\Desktop\important\c#\TheOfficeHelper\obj\Debug\TheOfficeHelper.AM.resources
+C:\Users\ADMIN\OneDrive\Desktop\important\c#\TheOfficeHelper\obj\Debug\TheOfficeHelper.AssignmentEmployee.resources
+C:\Users\ADMIN\OneDrive\Desktop\important\c#\TheOfficeHelper\obj\Debug\TheOfficeHelper.AssignmentManager.resources
+C:\Users\ADMIN\OneDrive\Desktop\important\c#\TheOfficeHelper\obj\Debug\TheOfficeHelper.EmployeeDashboard.resources
+C:\Users\ADMIN\OneDrive\Desktop\important\c#\TheOfficeHelper\obj\Debug\TheOfficeHelper.ManagerDashboard.resources
